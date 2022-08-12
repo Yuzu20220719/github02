@@ -7,10 +7,6 @@
       </list>
     </option>
   </component>
-  <component name="MavenRunner">
-    <option name="jreName" value="13" />
-    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
-  </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
